@@ -1,0 +1,6 @@
+{
+  "name": "NetScope - Website IP Finder",
+  "description": "Analyze any website and discover its IP address, DNS records, hosting information, ISP, ASN, geographic coordinates, and WHOIS intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
